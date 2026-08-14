@@ -1,6 +1,6 @@
 {
   "name": "yieldpoint",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Dynamic power handover engine for human-machine collaboration and multi-agent systems. Autonomy as a first-class runtime policy.",
   "keywords": [
     "human-in-the-loop",
@@ -86,7 +86,7 @@
   ],
   "sideEffects": false,
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.0.0"
   },
   "scripts": {
     "build": "tsup",
